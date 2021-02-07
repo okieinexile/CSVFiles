@@ -1,0 +1,36 @@
+course_id,title,credit,instructor,max_cap,enrollment
+ART*100*01,Visual Thinking: 2d Processes ,  3,LEWIS|  J,20,20
+ART*178*01,Intro To The Visual Arts D3|@,  3,TSENG|  L,60,43
+ART*178*02,Intro To The Visual Arts D3|@,  3,TSENG|  L,60,47
+ART*188*01,The Designed World WL WL|D3|@,  3,BOWMAN|  S,20,13
+ART*188*99,The Designed World WWW|D3|@,  3,STOTTS|  C,20,18
+ART*205*01,Intro To Visual Storytelling ,  3,OLIVER JR|  J,12,14
+ART*217*01,Crafts I D3|@,  3,LEWIS|  J,15,13
+ART*222*01,Jewelry Design I D3|@,  3,LEWIS|  J,15,12
+ART*233*01,Drawing I D3|@,  3,MCDONALD|  J,20,15
+ART*233*02,Drawing I D3|@,  3,MCDONALD|  J,20,15
+ART*244*01,Ceramics I D3|@,  3,KUCHARSKI|  M,18,16
+ART*244*02,Ceramics I D3|@,  3,KUCHARSKI|  M,18,17
+ART*244*03,Ceramics I D3|@,  3,KUCHARSKI|  M,18,12
+ART*244*04,Ceramics I D3|@,  3,KUCHARSKI|  M,15,12
+ART*250*01,Color Theory and Application ,  3,OLIVER JR|  J,20,14
+ART*266*01,Sculpture I D3|@,  3,LEWIS|  J,15,13
+ART*277*01,Painting I D3|@,  3,STOTTS|  C,20,18
+ART*288*01,Intro To Art History I WL WL|D3|@,  3,TSENG|  L,25,20
+ART*311*01,Art Education D3|@,  3,WOODARD|  C,30,30
+ART*311*02,Art Education D3|@,  3,WOODARD|  C,30,19
+ART*325*50,Art Prac II: Presentn Art Work ,  1,OLIVER JR|  J,10,2
+ART*336*01,Drawing With Ink ,  3,OLIVER JR|  J,18,16
+ART*348*01,Advanced Oil Painting ,  3,WOODARD|  C,14,13
+ART*363*01,Ceramics: Handbuilding ,  3,KUCHARSKI|  M,0,0
+ART*379*01,Art Education: Elementary ,  3,WOODARD|  C,30,3
+ART*401*01,Independent Studies (   ) ,1 to 3,BOWMAN|  S,1,0
+ART*401*03,Independent Studies (   ) ,1 to 3,KUCHARSKI|  M,1,4
+ART*401*04,Independent Studies (   ) ,1 to 3,LEWIS|  J,1,3
+ART*401*05,Independent Studies (   ) ,1 to 3,OLIVER JR|  J,5,5
+ART*401*06,Independent Studies (   ) ,1 to 3,WOODARD|  C,1,2
+ART*450*01,Resch Methd Writng For Artists ,  3,BOWMAN|  S,10,5
+ART*470*01,Tp:Letterpress and Bookarts ,  3,BOWMAN|  S,12,11
+ART*526*01,Intrnshp Museum Std Gallry Prt ##,1 to 3,STAFF,1,0
+ART*573*01,Bus & Self-Promotn For Artists #,  3,BOWMAN|  S,15,7
+ART*579*01,Supv Stu Tchg/Fol-Up of Tchrs ,  2,WOODARD|  C,2,1
