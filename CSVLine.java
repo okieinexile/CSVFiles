@@ -11,6 +11,13 @@ class CSVLine{
     setColumns();
     }
 
+  CSVLine(String[] entries){
+    setEntries(entries);
+    setLine();
+    }
+
+  private void setEntries(String[] entries){this.entries = entries;}
+
   private void setEntries(){
     String[] myEntries = readLine().split(sep, parameter);
     this.entries = new String[myEntries.length];
@@ -30,6 +37,15 @@ class CSVLine{
   }
 
   private void setLine(String line){this.line = line;}
+  
+  private void setLine(){
+    this.line = "";
+    for(int i = 0; i < this.entries.length - 1; ++i){
+      this.line = this.line + this.entries[i] + ", ";
+    }
+    this.line = this.line + this.entries[this.entries.length - 1];
+  }
+  
   public String readLine(){return this.line;}
   
 }

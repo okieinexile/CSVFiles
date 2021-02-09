@@ -5,6 +5,7 @@ class CSVLineTest{
     System.out.println("Passed readLine:  " + readLineTest(line));
     System.out.println("Passed readColumns:  " + readColumnsTest(line, columns));
     readEntriesTest(line);
+    fromEntriesCSVLineTest();
   }
 
   public boolean readLineTest(String line){
@@ -23,6 +24,12 @@ class CSVLineTest{
     for(int c = 0; c < cl.readColumns(); ++c){
       System.out.println(myEntries[c]);
     }
+  }
+
+  public void fromEntriesCSVLineTest(){
+    String[] myEntries = {"A", "doe", "a", "deer", "a","female", "deer"};
+    CSVLine cl = new CSVLine(myEntries);
+    System.out.println(cl.readLine());
   }
 
 }

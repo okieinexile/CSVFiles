@@ -1,6 +1,6 @@
 class Main {
   public static void main(String[] args) {
-    TextFileWriterTest cr = new TextFileWriterTest();
+    CSVFileWriterTest cr = new CSVFileWriterTest();
     cr.test();
   }
 }

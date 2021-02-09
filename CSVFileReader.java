@@ -74,4 +74,6 @@ class CSVFileReader extends TextFileReader {
     }
     return this.entries[r][c];
   }
+
+  public String[][] readEntries(){return this.entries;}
 }
